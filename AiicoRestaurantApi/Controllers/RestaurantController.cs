@@ -52,11 +52,6 @@ namespace AiicoRestaurantApi.Controllers
             _logger = logger;
         }
 
-        public RestaurantController()
-        {
-            
-        }
-
         [HttpGet(Name = "GetAllRestaurants")]
         public IActionResult  GetAllRestaurants()
         {
