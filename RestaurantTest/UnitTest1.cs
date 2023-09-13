@@ -10,6 +10,7 @@ namespace RestaurantTest
         [SetUp]
         public void Setup()
         {
+            var restaurantController = new RestaurantController();
             var restuarants =  new List<Restaurant>()
             {
                 new Restaurant

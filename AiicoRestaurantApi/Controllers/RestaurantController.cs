@@ -52,7 +52,10 @@ namespace AiicoRestaurantApi.Controllers
             _logger = logger;
         }
 
-        
+        public RestaurantController()
+        {
+            
+        }
 
         [HttpGet(Name = "GetAllRestaurants")]
         public IActionResult  GetAllRestaurants()
@@ -85,7 +88,7 @@ namespace AiicoRestaurantApi.Controllers
 
         }
 
-        [HttpGet(Name = "GetRestaurantById/{id}")]
+        [HttpGet("GetRestaurantById/{id}")]
         public IActionResult GetRestaurantById(int id)
         {
             var rest = restaurants.FirstOrDefault(x => x.Id == id);
@@ -102,7 +105,7 @@ namespace AiicoRestaurantApi.Controllers
 
         }
 
-        [HttpGet(Name = "GetRestaurantByAddress")]
+        [HttpGet("GetRestaurantByAddress")]
         public IActionResult GetRestaurantByAddress( [FromQuery]string city, [FromQuery] int lat, [FromQuery]int longi)
         {
             var rest = restaurants.Where(x => x.City == city)
@@ -121,7 +124,7 @@ namespace AiicoRestaurantApi.Controllers
 
         }
 
-        [HttpPut(Name = "UpdateRestaurant/{id}")]
+        [HttpPut("UpdateRestaurant/{id}")]
         public IActionResult UpdateRestaurant(int id,[FromBody] RestaurantDto restaurantDto)
         {
             Random random = new Random();
@@ -150,7 +153,7 @@ namespace AiicoRestaurantApi.Controllers
 
         }
 
-        [HttpDelete(Name ="DeleteRestaurant")]
+        [HttpDelete("DeleteRestaurant")]
         public IActionResult DelateRestaurant(int id)
         {
             var rest = restaurants.FirstOrDefault(x => x.Id == id);

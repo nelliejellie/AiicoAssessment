@@ -9,6 +9,8 @@ namespace AiicoRestaurantApi
         [Required]
         public string? Address { get; set; }
         [Required]
+        public string? City { get; set; }
+        [Required]
         public int Longitude { get; set; }
         [Required]
         public int Latitude { get; set; }

@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AiicoAssessment", "AiicoAssessment\AiicoAssessment.csproj", "{62BB5600-AC64-42AD-A456-F97865D82D96}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AiicoAssessment", "AiicoAssessment\AiicoAssessment.csproj", "{62BB5600-AC64-42AD-A456-F97865D82D96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AiicoRestaurantApi", "AiicoRestaurantApi\AiicoRestaurantApi.csproj", "{E35E8D45-1CF1-4703-9E61-213F01C9B7B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AiicoRestaurantApi", "AiicoRestaurantApi\AiicoRestaurantApi.csproj", "{E35E8D45-1CF1-4703-9E61-213F01C9B7B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaurantTest", "RestaurantTest\RestaurantTest.csproj", "{82220178-7936-4078-9AF4-009D9B280A54}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{E35E8D45-1CF1-4703-9E61-213F01C9B7B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E35E8D45-1CF1-4703-9E61-213F01C9B7B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E35E8D45-1CF1-4703-9E61-213F01C9B7B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82220178-7936-4078-9AF4-009D9B280A54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82220178-7936-4078-9AF4-009D9B280A54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82220178-7936-4078-9AF4-009D9B280A54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82220178-7936-4078-9AF4-009D9B280A54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
