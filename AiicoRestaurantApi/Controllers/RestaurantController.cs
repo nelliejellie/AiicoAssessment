@@ -52,7 +52,7 @@ namespace AiicoRestaurantApi.Controllers
             _logger = logger;
         }
 
-        [HttpGet(Name = "GetAllRestaurants")]
+        [HttpGet("GetAllRestaurants")]
         public IActionResult  GetAllRestaurants()
         {
             return Ok(new
@@ -62,7 +62,7 @@ namespace AiicoRestaurantApi.Controllers
             });
         }
 
-        [HttpPost(Name = "AddRestaurants")]
+        [HttpPost("AddRestaurants")]
         public IActionResult AddRestaurant([FromBody]RestaurantDto restaurantDto)
         {
             Random random = new Random();
