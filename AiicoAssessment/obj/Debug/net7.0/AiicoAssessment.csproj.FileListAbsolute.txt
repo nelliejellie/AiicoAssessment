@@ -1,0 +1,14 @@
+C:\Users\iraphael\source\repos\AiicoAssessments\AiicoAssessment\bin\Debug\net7.0\AiicoAssessment.exe
+C:\Users\iraphael\source\repos\AiicoAssessments\AiicoAssessment\bin\Debug\net7.0\AiicoAssessment.deps.json
+C:\Users\iraphael\source\repos\AiicoAssessments\AiicoAssessment\bin\Debug\net7.0\AiicoAssessment.runtimeconfig.json
+C:\Users\iraphael\source\repos\AiicoAssessments\AiicoAssessment\bin\Debug\net7.0\AiicoAssessment.dll
+C:\Users\iraphael\source\repos\AiicoAssessments\AiicoAssessment\bin\Debug\net7.0\AiicoAssessment.pdb
+C:\Users\iraphael\source\repos\AiicoAssessments\AiicoAssessment\obj\Debug\net7.0\AiicoAssessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iraphael\source\repos\AiicoAssessments\AiicoAssessment\obj\Debug\net7.0\AiicoAssessment.AssemblyInfoInputs.cache
+C:\Users\iraphael\source\repos\AiicoAssessments\AiicoAssessment\obj\Debug\net7.0\AiicoAssessment.AssemblyInfo.cs
+C:\Users\iraphael\source\repos\AiicoAssessments\AiicoAssessment\obj\Debug\net7.0\AiicoAssessment.csproj.CoreCompileInputs.cache
+C:\Users\iraphael\source\repos\AiicoAssessments\AiicoAssessment\obj\Debug\net7.0\AiicoAssessment.dll
+C:\Users\iraphael\source\repos\AiicoAssessments\AiicoAssessment\obj\Debug\net7.0\refint\AiicoAssessment.dll
+C:\Users\iraphael\source\repos\AiicoAssessments\AiicoAssessment\obj\Debug\net7.0\AiicoAssessment.pdb
+C:\Users\iraphael\source\repos\AiicoAssessments\AiicoAssessment\obj\Debug\net7.0\AiicoAssessment.genruntimeconfig.cache
+C:\Users\iraphael\source\repos\AiicoAssessments\AiicoAssessment\obj\Debug\net7.0\ref\AiicoAssessment.dll

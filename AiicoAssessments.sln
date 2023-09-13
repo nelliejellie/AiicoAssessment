@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AiicoAssessment", "AiicoAssessment\AiicoAssessment.csproj", "{62BB5600-AC64-42AD-A456-F97865D82D96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AiicoRestaurantApi", "AiicoRestaurantApi\AiicoRestaurantApi.csproj", "{E35E8D45-1CF1-4703-9E61-213F01C9B7B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62BB5600-AC64-42AD-A456-F97865D82D96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62BB5600-AC64-42AD-A456-F97865D82D96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62BB5600-AC64-42AD-A456-F97865D82D96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62BB5600-AC64-42AD-A456-F97865D82D96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E35E8D45-1CF1-4703-9E61-213F01C9B7B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E35E8D45-1CF1-4703-9E61-213F01C9B7B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E35E8D45-1CF1-4703-9E61-213F01C9B7B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E35E8D45-1CF1-4703-9E61-213F01C9B7B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF82963A-4341-4607-86D9-6D6DCC6ED670}
+	EndGlobalSection
+EndGlobal

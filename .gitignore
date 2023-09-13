@@ -1,0 +1,23 @@
+# .NET
+*.obj
+*.bin
+*.exe
+*.dll
+*.pdb
+*.user
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ilk
+*.msbuild
+*.res
+*.pch
+*.sbr
+*.tlb
+*.tlh
+*.tmp
+*.log
+*.tlog
+*.vspx
+*.publish.xml
